@@ -14,3 +14,6 @@ https://unsplash.com/es/@danielkorpai
 Foto de <a href="https://unsplash.com/es/@wilmerlens?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wilmer Martinez</a> en <a href="https://unsplash.com/es/fotos/mujer-con-gafas-de-montura-negra-y-abrigo-de-piel-marron-Lme2Ye2jVo8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
+# fixing errors
+
+I removed the / from the images sources since it is not allowing my github pages to load the images as expected. 
